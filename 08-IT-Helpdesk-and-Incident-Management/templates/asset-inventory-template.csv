@@ -1,0 +1,9 @@
+Asset ID,Asset Type,Manufacturer,Model,Serial Number,Purchase Date,Warranty Expiry,Location,Assigned To,Department,OS,OS Version,RAM GB,Storage GB,IP Address,MAC Address,Status,Notes
+ASSET-001,Workstation,Dell,OptiPlex 7090,SN-DELL-7090-01,2022-03-15,2025-03-15,Office 101,John Smith,IT,Windows 11 Pro,23H2,16,512 NVMe,192.168.100.20,08:00:27:BA:56:12,Active,Primary IT Support PC
+ASSET-002,Workstation,HP,EliteDesk 800 G8,SN-HP-800-02,2022-04-10,2025-04-10,Office 102,Jane Doe,HR,Windows 11 Pro,23H2,16,512 NVMe,192.168.100.21,08:00:27:BA:56:13,Active,HR Administration
+ASSET-003,Laptop,Dell,Latitude 5520,SN-DELL-5520-03,2021-11-20,2024-11-20,Mobile,Mark Johnson,Finance,Windows 11 Pro,23H2,16,512 NVMe,DHCP,08:00:27:BA:56:14,Active,Finance Month-End Laptop
+ASSET-004,Server,Dell,PowerEdge T440,SN-SRV-T440-01,2021-01-10,2026-01-10,Server Room,IT Dept,IT,Windows Server 2022,21H2,64,2000 RAID,192.168.100.10,08:00:27:BA:56:15,Active,Domain Controller & File Server
+ASSET-005,Managed Switch,Cisco,SG350-24,SN-CISCO-350-01,2021-01-10,2026-01-10,Server Room,IT Dept,IT,Firmware v2.5,N/A,N/A,N/A,192.168.100.2,00:50:56:C0:00:01,Active,Core 24-Port Gigabit Switch
+ASSET-006,Network Printer,HP,LaserJet Pro M404dn,SN-HP-M404-01,2022-05-18,2025-05-18,Floor 1 Lobby,Shared,Operations,N/A,N/A,N/A,N/A,192.168.100.50,00:1E:0B:45:67:89,Active,Network Departmental Printer
+ASSET-007,UPS Unit,APC,Smart-UPS 1500VA,SN-APC-1500-01,2021-01-10,2024-01-10,Server Room,IT Dept,IT,N/A,N/A,N/A,N/A,N/A,N/A,Attention,Battery replacement due Q4
+ASSET-008,Access Point,Ubiquiti,UniFi U6-Pro,SN-UBNT-U6-01,2022-06-01,2025-06-01,Ceiling Office,IT Dept,IT,Firmware v6.2,N/A,N/A,N/A,192.168.100.15,24:5A:4C:12:34:56,Active,Office Wi-Fi Access Point

@@ -1,0 +1,56 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Windows
+*.lnk
+*.tmp
+*.bak
+*.log
+
+# Screenshots - real screenshots should be added manually
+# screenshots/*.png
+# screenshots/*.jpg
+
+# Sensitive files - never commit these
+*.pem
+*.key
+*.pfx
+*.p12
+*.crt
+*.cer
+passwords.txt
+credentials.txt
+*.env
+secrets.*
+
+# PowerShell
+*.ps1xml
+
+# Temporary files
+temp/
+tmp/
+.temp/
+
+# IDE files
+.vscode/settings.json
+.idea/
+*.suo
+*.user
+
+# Virtual Machine files
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+
+# Log files
+logs/
+*.log

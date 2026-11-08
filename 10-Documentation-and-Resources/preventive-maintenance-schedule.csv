@@ -1,0 +1,9 @@
+Schedule ID,Asset ID,Asset Description,Location,Frequency,Last Performed,Next Due,Assigned Tech,Status,Procedures
+PM-001,ASSET-004,Dell PowerEdge T440 Server,Server Room,Monthly,2024-10-15,2024-11-15,Anand D,Scheduled,Check RAID health; audit event logs; verify backup completion; clean dust filters
+PM-002,ASSET-005,Cisco SG350-24 Core Switch,Server Room,Quarterly,2024-08-10,2024-11-10,Anand D,Pending,Audit port error counters; verify fan rotation; backup running-config to TFTP
+PM-003,ASSET-007,APC Smart-UPS 1500VA,Server Room,Monthly,2024-10-01,2024-11-01,Anand D,Attention,Execute self-test battery calibration; replace aging battery cells
+PM-004,ASSET-006,HP LaserJet Pro Printer,Floor 1 Lobby,Monthly,2024-10-20,2024-11-20,Anand D,Scheduled,Clean paper feed rollers; check toner level; vacuum internal paper dust
+PM-005,ASSET-001,Dell OptiPlex 7090 PC,Office 101,Quarterly,2024-09-01,2024-12-01,Anand D,Scheduled,Internal dust blow-out; disk cleanup; S.M.A.R.T. health scan; cable check
+PM-006,ASSET-002,HP EliteDesk 800 PC,Office 102,Quarterly,2024-09-01,2024-12-01,Anand D,Scheduled,Internal dust blow-out; disk cleanup; S.M.A.R.T. health scan; cable check
+PM-007,ASSET-003,Dell Latitude 5520 Laptop,Mobile,Quarterly,2024-09-10,2024-12-10,Anand D,Scheduled,Battery health report; Windows updates; fan cleaning; verify BitLocker key backup
+PM-008,ASSET-008,Ubiquiti U6-Pro Access Point,Ceiling Office,Semi-Annual,2024-05-15,2024-11-15,Anand D,Scheduled,Audit channel utilization; check PoE cable voltage; firmware check

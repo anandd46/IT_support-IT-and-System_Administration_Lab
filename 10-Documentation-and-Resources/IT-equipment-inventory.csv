@@ -1,0 +1,9 @@
+Asset ID,Type,Manufacturer,Model,Serial Number,Location,Assigned To,Department,OS,Purchase Date,Warranty Expiry,Status,Notes
+ASSET-001,Workstation,Dell,OptiPlex 7090,SN-DELL-7090-01,Office 101,John Smith,IT,Windows 11 Pro,2022-03-15,2025-03-15,Active,Primary IT Support PC
+ASSET-002,Workstation,HP,EliteDesk 800 G8,SN-HP-800-02,Office 102,Jane Doe,HR,Windows 11 Pro,2022-04-10,2025-04-10,Active,HR Administration
+ASSET-003,Laptop,Dell,Latitude 5520,SN-DELL-5520-03,Mobile,Mark Johnson,Finance,Windows 11 Pro,2021-11-20,2024-11-20,Active,Finance Month-End Laptop
+ASSET-004,Server,Dell,PowerEdge T440,SN-SRV-T440-01,Server Room,IT Dept,IT,Windows Server 2022,2021-01-10,2026-01-10,Active,Domain Controller & File Server
+ASSET-005,Managed Switch,Cisco,SG350-24,SN-CISCO-350-01,Server Room,IT Dept,IT,Firmware v2.5,2021-01-10,2026-01-10,Active,Core 24-Port Gigabit Switch
+ASSET-006,Network Printer,HP,LaserJet Pro M404dn,SN-HP-M404-01,Floor 1 Lobby,Shared,Operations,N/A,2022-05-18,2025-05-18,Active,Network Departmental Printer
+ASSET-007,UPS Unit,APC,Smart-UPS 1500VA,SN-APC-1500-01,Server Room,IT Dept,IT,N/A,2021-01-10,2024-01-10,Attention,Battery replacement due Q4
+ASSET-008,Access Point,Ubiquiti,UniFi U6-Pro,SN-UBNT-U6-01,Ceiling Office,IT Dept,IT,Firmware v6.2,2022-06-01,2025-06-01,Active,Office Wi-Fi Access Point
